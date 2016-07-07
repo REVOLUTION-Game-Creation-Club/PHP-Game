@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    </head>  
-    <body>
+
+   <?php include("header.php"); ?> 
+  
     <div>
         <h1>
-        You go to the front lawn.
+        You go to the judges' table.
         </h1>
         <p>
         
@@ -16,6 +14,4 @@
         
         </div>
     
-    
-    </body>
-</html>
+     <?php include("footer.php"); ?>

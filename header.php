@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 <html>
-    <head>
+<head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,20 +18,20 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="evidence.html">Evidence Notes</a></li>
+        <li><a href="evidence.php">Evidence Notes</a></li>
         
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Go To <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="judges.html">Judges Table</a></li>
-            <li><a href="bathroom.html">Bathroom</a></li>
-            <li><a href="frontlawn.html">Front Lawn</a></li>
+            <li><a href="judges.php">Judges Table</a></li>
+            <li><a href="bathroom.php">Bathroom</a></li>
+            <li><a href="frontlawn.php">Front Lawn</a></li>
             <li role="separator" class="divider"></li>
               
           </ul>
             
         </li>
-          <li><a href="answer.html">I Know Who Did it</a></li>
+          <li><a href="answer.php">I Know Who Did it</a></li>
         </ul>
       
         </li>
@@ -41,11 +40,4 @@
   </div><!-- /.container-fluid -->
 </nav>
     </head>
-    <body>
-
-        
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-
-    <script src="bootstrap.min.js"></script>
-    </body>
-</html>
+<body>
