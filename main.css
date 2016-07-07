@@ -1,0 +1,11 @@
+.paragraph {
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+    line-height: 150%;
+    
+}
+.paragraph h1 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

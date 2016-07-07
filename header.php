@@ -4,9 +4,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="main.css">
         
         <nav class="navbar navbar-default">
-  <div class="container-fluid">
+  <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -26,8 +27,6 @@
             <li><a href="judges.php">Judges Table</a></li>
             <li><a href="bathroom.php">Bathroom</a></li>
             <li><a href="frontlawn.php">Front Lawn</a></li>
-            <li role="separator" class="divider"></li>
-              
           </ul>
             
         </li>
