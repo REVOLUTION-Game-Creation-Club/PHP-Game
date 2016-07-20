@@ -6,25 +6,21 @@
         <script language="JavaScript">
 
 var pass_entered;
-var password="cool";
+var password="Joid";
 
 while (pass_entered!=password) {
-    pass_entered=prompt('Please enter the password:','');
+    pass_entered=prompt('Who committed the crime?' ,'');
 }
 
 self.close();
 
 </script>
-    <div>
+
+
+    <div class="paragraph">
         <h1>
-        You go to the front lawn.
+        You have solved the crime.
         </h1>
-        <p>
-        
-        </p>
-        
-        
-        
-        
-        </div>
-    <?php include("footer.php"); ?>
+    </div>
+
+<?php include("footer.php"); ?>

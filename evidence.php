@@ -4,7 +4,7 @@ include("connection.php");
 
 ?>
 
-<ul>
+<ul class="list">
 <?php foreach ($suspects as $item) {
     echo "<li><img class='image' src='img/"
         .$item["image"]
