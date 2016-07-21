@@ -18,7 +18,7 @@ try {
     $results = $conn->query("SELECT name, role, background, image FROM Suspects");
     
 } catch (Exception $e) {
-    echo "no";
+    echo "Connection Failure";
     exit;
 }
 
