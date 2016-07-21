@@ -12,7 +12,9 @@ include("connection.php");
         . $item["name"] 
         . "' /> <br> <div class='name'>" 
         . $item["name"]
-        . " </div><br><div class='content'>" 
+        . " </div><br><div class='role'>"
+        . $item["role"]
+        ."</div><br><div class='content'>"
         . $item["background"]
         . "</div> </li>";
 } ?>

@@ -36,3 +36,11 @@ ul {
 .list {
     text-align:center;
 }
+
+.navbar {
+    background: white;
+}
+
+.role {
+    line-height: 3px;
+}
